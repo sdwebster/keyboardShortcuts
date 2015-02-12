@@ -29,8 +29,6 @@
 // command + shift + ] : move right one tab
 // command + shift + [ : move left one tab
 // command + NUMBER : move to tab number NUMBER (not in Bash)
-// fn + up : page up
-// fn + down : page down
 
 // Vimium (install it first):
 // j : scroll down
@@ -86,7 +84,7 @@ var innerFunction = function(){
 // command + k, command + u : make selection upper case
 // command + k, command + l : make selection lower case
 // command + ' : select all within quotes
-var quote = "Wouldn't t be nice to replace this quote?";
+var quote = "Wouldn't it be nice to replace this quote?";
 // command + shift + ' : select all within quotes, and quotes
 var quote = "Wouldn't it be nice to replace this quote with a number?";
 // control + m : move to beginning/end of parens and braces
